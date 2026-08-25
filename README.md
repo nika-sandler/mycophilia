@@ -44,6 +44,8 @@ Other Archives:
   
   https://github.com/nika-sandler/mycophilia
 
+  https://github.com/nika-sandler/TIFF-Mycophilia
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
